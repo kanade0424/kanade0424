@@ -77,7 +77,7 @@
   </a>
   <a href="https://github.com/dev-Kanade">
     <img height="180" align="center" 
-         src="https://github-my-stats.onrender.com/api/top-langs/?username=kanade_0424&langs_count=7&locale=ja&theme=prussian&hide=Batchfile,Shell&layout=compact" 
+         src="https://github-my-stats.onrender.com/api/top-langs/?username=kanade0424&langs_count=7&locale=ja&theme=prussian&hide=Batchfile,Shell&layout=compact" 
          alt="最もよく使っている言語" />
   </a>
 </div>
