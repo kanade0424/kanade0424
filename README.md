@@ -71,12 +71,12 @@
 
 <!-- カード横並び：Streak + Top Languages（プライベート込み・日本語） -->
 <div align="center">
-  <a href="https://github.com/dev-Kanade">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=kanade0424&theme=prussian&hide_border=true&border_radius=10&locale=ja">
     <img height="180" align="center" 
          src="https://github-readme-streak-stats.herokuapp.com/?user=kanade0424&theme=prussian&hide_border=true&border_radius=10&locale=ja" 
          alt="GitHub Streak Stats" />
   </a>
-  <a href="https://github.com/dev-Kanade">
+  <a href="https://github-my-stats.onrender.com/api/top-langs/?username=kanade0424&langs_count=7&locale=ja&theme=prussian&hide=Batchfile,Shell&layout=compact">
     <img height="180" align="center" 
          src="https://github-my-stats.onrender.com/api/top-langs/?username=kanade0424&langs_count=7&locale=ja&theme=prussian&hide=Batchfile,Shell&layout=compact" 
          alt="最もよく使っている言語" />
